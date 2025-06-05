@@ -1,0 +1,17 @@
+{
+  "name": "HanX",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "HanX",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.11",
+    "node-telegram-bot-api": "^0.61.0",
+    "ora": "^5.4.1"
+  }
+}

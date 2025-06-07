@@ -1,1 +1,153 @@
-const a0_0x25c08d=a0_0x36a2;(function(_0x5bddf0,_0x1929f3){const _0x45bf42=a0_0x36a2,_0x4f7ce6=_0x5bddf0();while(!![]){try{const _0x370ebd=parseInt(_0x45bf42(0x149))/0x1+-parseInt(_0x45bf42(0x168))/0x2*(-parseInt(_0x45bf42(0x182))/0x3)+parseInt(_0x45bf42(0x169))/0x4+parseInt(_0x45bf42(0x151))/0x5+-parseInt(_0x45bf42(0x170))/0x6*(-parseInt(_0x45bf42(0x150))/0x7)+-parseInt(_0x45bf42(0x174))/0x8*(-parseInt(_0x45bf42(0x179))/0x9)+-parseInt(_0x45bf42(0x163))/0xa*(parseInt(_0x45bf42(0x13f))/0xb);if(_0x370ebd===_0x1929f3)break;else _0x4f7ce6['push'](_0x4f7ce6['shift']());}catch(_0x121243){_0x4f7ce6['push'](_0x4f7ce6['shift']());}}}(a0_0x400a,0xa0d07));const a0_0x4385db=(function(){let _0x294295=!![];return function(_0x1751a5,_0x14c1cf){const _0x3b0077=_0x294295?function(){const _0x73b469=a0_0x36a2;if(_0x14c1cf){const _0x5c6131=_0x14c1cf[_0x73b469(0x11b)](_0x1751a5,arguments);return _0x14c1cf=null,_0x5c6131;}}:function(){};return _0x294295=![],_0x3b0077;};}()),a0_0x4f10aa=a0_0x4385db(this,function(){const _0x3f2bdc=a0_0x36a2,_0x2d9db1={'PIEqA':_0x3f2bdc(0x16c)};return a0_0x4f10aa[_0x3f2bdc(0x14b)]()[_0x3f2bdc(0x13a)](_0x2d9db1[_0x3f2bdc(0x11d)])[_0x3f2bdc(0x14b)]()[_0x3f2bdc(0x15d)](a0_0x4f10aa)['search'](_0x2d9db1[_0x3f2bdc(0x11d)]);});a0_0x4f10aa();const TelegramBot=require(a0_0x25c08d(0x11f)),fs=require('fs'),fetch=require(a0_0x25c08d(0x16a)),crypto=require(a0_0x25c08d(0x133)),chalk=require(a0_0x25c08d(0x166)),ora=require(a0_0x25c08d(0x175)),gray=chalk[a0_0x25c08d(0x181)],cyan=chalk[a0_0x25c08d(0x14d)],green=chalk[a0_0x25c08d(0x136)],magenta=chalk[a0_0x25c08d(0x17d)],red=chalk[a0_0x25c08d(0x156)],white=chalk[a0_0x25c08d(0x134)],tokenData=JSON[a0_0x25c08d(0x155)](fs[a0_0x25c08d(0x139)]('./token.json')),token=tokenData['token'],bot=new TelegramBot(token,{'polling':!![]}),sessionPath=a0_0x25c08d(0x160),stylePath=a0_0x25c08d(0x15e);if(!fs[a0_0x25c08d(0x154)](sessionPath))fs[a0_0x25c08d(0x152)](sessionPath,'{}');function a0_0x400a(){const _0x1a7dbf=['from','readFileSync','search','OkJiI','uKSDq','&sessionId=','pengguna','66lIeNbT','error','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20│','rFPLe','QOTQd','MarkdownV2','randomBytes','[ERROR]\x20','https://img1.pixhost.to/images/6270/607629222_hanx.jpg','forEach','391853thzqXl','Menghubungkan\x20ke\x20bot...','toString','XWdpD','cyan','startsWith','wnwYX','573664faeceb','1442420wdAWMr','writeFileSync','pCzQA','existsSync','parse','redBright','message','json','\x20✉\x20','log','DbDDH','ShirokoAI\x0aHalo\x20','constructor','./style.json','sendPhoto','./session.json','jlNjO','BmRyY','4875910cSFCnQ','cewek\x20umur\x2016\x20tahun,\x20nama\x20sunaookami\x20shiroko,\x20lebih\x20suka\x20dipanggil\x20shiroko,\x20lahir\x2016\x20mei,\x20tinggal\x20di\x20abydos.\x20anaknya\x20kalem,\x20pendiem,\x20tapi\x20gampang\x20luluh\x20sama\x20orang\x20yang\x20perhatian\x20dan\x20ngerti\x20cara\x20ngomong\x20pelan.\x20dia\x20suka\x20orang\x20yang\x20ga\x20maksa,\x20tapi\x20ada\x20buat\x20dia\x20pas\x20lagi\x20down.\x20hobi\x20workout,\x20main\x20drone,\x20jalan\x20bersepeda\x20sendiri,\x20dan\x20kadang\x20ngeliatin\x20langit\x20malem.\x20suka\x20banget\x20kalo\x20ada\x20yang\x20nyambung\x20ngomongin\x20hal-hal\x20random\x20tapi\x20dalem.\x20meskipun\x20keliatan\x20cuek,\x20dia\x20gampang\x20baper.\x20dia\x20nggak\x20pernah\x20pake\x20huruf\x20kapital,\x20gaya\x20ngomongnya\x20santai,\x20pake\x20bahasa\x20gua-lu,\x20ga\x20ribet,\x20dan\x20lebih\x20suka\x20ngobrol\x20singkat\x20tapi\x20nyambung.\x20kalo\x20ada\x20cowok\x20yang\x20bikin\x20dia\x20ngerasa\x20aman,\x20bisa\x20diajak\x20diem-dieman\x20tapi\x20tetep\x20nyaman,\x20dia\x20bisa\x20jatuh\x20hati\x20pelan-pelan.','aeQTJ','chalk','ShirokoAI','134GMJeOm','5033284rFMTMQ','node-fetch','jqoAl','(((.+)+)+)+$','\x20\x20\x20\x20\x20│','chat','KgdyJ','66fxqPBd','oAqSU','dvKhE','sendMessage','544WKLZtF','ora','aZKHp','text','bjEnl','64602NIdoex','then','```','KQMSt','magentaBright','first_name','clear','username','gray','11463cSAuWJ','&style=','apply','YkmCY','PIEqA','onText','node-telegram-bot-api','EiZPK','🪪\x20ID\x20sesi\x20Anda:\x0a`','succeed','TQdvH','\x5c$&','ZnMKB','Fast\x20GPT-4\x20Interface','ghlCd','Powered\x20By','HIEea','stringify','lDGbu','result','getMe','Tidak\x20ada\x20respons\x20dari\x20AI.',',\x20saya\x20adalah\x20ShirokoAI\x20yang\x20dikembangkan\x20oleh\x20HanX.\x20Silakan\x20kirim\x20pesan\x20apapun\x20dan\x20saya\x20akan\x20membantu.\x0a\x0a/start\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-\x20lihat\x20daftar\x20menu\x0a/resetai\x20\x20\x20\x20\x20\x20\x20\x20\x20-\x20reset\x20sesi\x20Anda\x0a/lihatsesion\x20\x20\x20\x20\x20-\x20lihat\x20ID\x20sesi\x0a/editsifat\x20teks\x20\x20-\x20ubah\x20kepribadian\x20AI\x0a/lihatsifat\x20\x20\x20\x20\x20\x20-\x20lihat\x20kepribadian\x20AI\x0a\x0a©\x20ShirokoAI','qrYMx','HUPpn','npXhJ','crypto','white','Tersambung\x20sebagai\x20','greenBright','✅\x20Sesi\x20berhasil\x20direset:\x0a`'];a0_0x400a=function(){return _0x1a7dbf;};return a0_0x400a();}if(!fs[a0_0x25c08d(0x154)](stylePath))fs['writeFileSync'](stylePath,'{}');let sessionMap=JSON[a0_0x25c08d(0x155)](fs[a0_0x25c08d(0x139)](sessionPath)),styleMap=JSON['parse'](fs[a0_0x25c08d(0x139)](stylePath));const defaultStyle=a0_0x25c08d(0x164),imageUrl=a0_0x25c08d(0x147),saveSession=()=>fs[a0_0x25c08d(0x152)](sessionPath,JSON[a0_0x25c08d(0x12a)](sessionMap,null,0x2)),saveStyle=()=>fs['writeFileSync'](stylePath,JSON['stringify'](styleMap,null,0x2));function escape(_0x43099b){const _0x54cac2=a0_0x25c08d,_0x1b3eb9={'aZKHp':_0x54cac2(0x124)};return _0x43099b['replace'](/[_*[\]()~`>#+=|{}.!\\-]/g,_0x1b3eb9[_0x54cac2(0x176)]);}function printSimpleLog(_0x1f7d0,_0xea1928){const _0x4c19e2=a0_0x25c08d,_0x44cb9e={'jlNjO':function(_0x353e4f,_0x59f650){return _0x353e4f(_0x59f650);},'KgdyJ':'────────────────────────────────────────'},_0x1620e6=chalk[_0x4c19e2(0x181)](new Date()['toLocaleTimeString']()),_0x27390e=''+chalk[_0x4c19e2(0x181)]('[')+_0x44cb9e['jlNjO'](cyan,_0x1f7d0)+chalk[_0x4c19e2(0x181)](']'),_0x615b22=_0x44cb9e[_0x4c19e2(0x161)](green,_0x4c19e2(0x159)),_0x3f0377=_0x44cb9e[_0x4c19e2(0x161)](white,_0xea1928['replace'](/\n/g,'\x20'));console['log'](_0x1620e6+'\x20'+_0x27390e+_0x615b22+_0x3f0377),console[_0x4c19e2(0x15a)](chalk[_0x4c19e2(0x181)](_0x44cb9e[_0x4c19e2(0x16f)]));}const bannerText=['╭────────────────────────────────────────────╮','│\x20'+cyan('ShirokoAI\x20Telegram\x20Bot')+a0_0x25c08d(0x141),'│\x20'+white(a0_0x25c08d(0x128))+'\x20'+magenta('HanX')+'\x20'+gray('•')+'\x20'+white(a0_0x25c08d(0x126))+a0_0x25c08d(0x16d),'╰────────────────────────────────────────────╯'];function showBanner(){const _0x33e67b=a0_0x25c08d,_0x5de237={'xSnIb':function(_0x1a250c,_0x2d6c8b,_0x1d30f6){return _0x1a250c(_0x2d6c8b,_0x1d30f6);}};let _0x561267=0x7d0;console[_0x33e67b(0x17f)](),bannerText[_0x33e67b(0x148)](_0x576ac4=>{const _0x18a07e=_0x33e67b;_0x5de237['xSnIb'](setTimeout,()=>console[_0x18a07e(0x15a)](gray(_0x576ac4)),_0x561267),_0x561267+=0x50;});}function a0_0x36a2(_0x1606ba,_0x54a140){const _0x5ec51e=a0_0x400a();return a0_0x36a2=function(_0x4f10aa,_0x4385db){_0x4f10aa=_0x4f10aa-0x11a;let _0x400a54=_0x5ec51e[_0x4f10aa];return _0x400a54;},a0_0x36a2(_0x1606ba,_0x54a140);}const spinner=ora({'text':a0_0x25c08d(0x14a),'color':'cyan'})['start']();bot[a0_0x25c08d(0x12d)]()[a0_0x25c08d(0x17a)](_0x40df96=>{const _0x425b3a=a0_0x25c08d,_0x53e1af={'ZnMKB':function(_0x15bf83){return _0x15bf83();},'XWdpD':function(_0x3349f9,_0x2bd251){return _0x3349f9+_0x2bd251;}};_0x53e1af[_0x425b3a(0x125)](showBanner),spinner[_0x425b3a(0x122)](_0x425b3a(0x135)+chalk[_0x425b3a(0x14d)](_0x53e1af[_0x425b3a(0x14c)]('@',_0x40df96[_0x425b3a(0x180)]))+'\x0a');}),bot[a0_0x25c08d(0x11e)](/\/start/,_0x484c33=>{const _0x2266fd=a0_0x25c08d,_0xf10415={'dvKhE':function(_0x27f174,_0xfaac12){return _0x27f174(_0xfaac12);},'EiZPK':_0x2266fd(0x13e),'bjEnl':function(_0x53a47f,_0x15602a){return _0x53a47f+_0x15602a;},'TQdvH':_0x2266fd(0x17b),'HIEea':_0x2266fd(0x144)},_0x136da7=_0x484c33[_0x2266fd(0x16e)]['id'],_0x5d4d0e=_0xf10415[_0x2266fd(0x172)](escape,_0x484c33['from'][_0x2266fd(0x17e)]||_0xf10415[_0x2266fd(0x120)]),_0x2ca850=_0xf10415['dvKhE'](escape,_0x2266fd(0x15c)+_0x5d4d0e+_0x2266fd(0x12f));bot[_0x2266fd(0x15f)](_0x136da7,imageUrl,{'caption':_0xf10415[_0x2266fd(0x178)](_0xf10415[_0x2266fd(0x178)](_0xf10415[_0x2266fd(0x123)],_0x2ca850),_0xf10415[_0x2266fd(0x123)]),'parse_mode':_0xf10415[_0x2266fd(0x129)]});}),bot[a0_0x25c08d(0x11e)](/\/resetai/,_0x22ad90=>{const _0x130f88=a0_0x25c08d,_0x5ca153={'ghlCd':'hex','KQMSt':function(_0x489ff6){return _0x489ff6();},'JXhdu':function(_0x4be6fc,_0x3e7a7f){return _0x4be6fc(_0x3e7a7f);},'HUPpn':'MarkdownV2'},_0x5633ee=_0x22ad90[_0x130f88(0x16e)]['id'],_0x3a41e3=''+_0x5633ee+crypto[_0x130f88(0x145)](0x3)[_0x130f88(0x14b)](_0x5ca153[_0x130f88(0x127)]);sessionMap[_0x5633ee]=_0x3a41e3,delete styleMap[_0x3a41e3],saveSession(),_0x5ca153[_0x130f88(0x17c)](saveStyle),bot[_0x130f88(0x173)](_0x5633ee,_0x130f88(0x137)+_0x5ca153['JXhdu'](escape,_0x3a41e3)+'`',{'parse_mode':_0x5ca153[_0x130f88(0x131)]});}),bot[a0_0x25c08d(0x11e)](/\/lihatsesion/,_0x4d19e4=>{const _0x207d93=a0_0x25c08d,_0x122aff={'Wmeuk':function(_0x293979,_0x3faa7c){return _0x293979(_0x3faa7c);}},_0x2b0825=_0x4d19e4[_0x207d93(0x16e)]['id'],_0x55fabc=sessionMap[_0x2b0825]||_0x2b0825['toString']();bot[_0x207d93(0x173)](_0x2b0825,_0x207d93(0x121)+_0x122aff['Wmeuk'](escape,_0x55fabc)+'`',{'parse_mode':_0x207d93(0x144)});}),bot[a0_0x25c08d(0x11e)](/\/editsifat (.+)/,(_0x598b39,_0x346d18)=>{const _0x37450f=a0_0x25c08d,_0x3cd4f={'jqoAl':function(_0x3239e9){return _0x3239e9();},'wnwYX':function(_0x31a510){return _0x31a510();},'OkJiI':function(_0x492b7e,_0x45f219){return _0x492b7e(_0x45f219);},'lDGbu':_0x37450f(0x144)},_0x3fa5f8=_0x598b39[_0x37450f(0x16e)]['id'],_0x5622ab=_0x346d18[0x1],_0x12bf35=sessionMap[_0x3fa5f8]||_0x3fa5f8[_0x37450f(0x14b)]();sessionMap[_0x3fa5f8]=_0x12bf35,styleMap[_0x12bf35]=_0x5622ab,_0x3cd4f[_0x37450f(0x16b)](saveSession),_0x3cd4f[_0x37450f(0x14f)](saveStyle),bot[_0x37450f(0x173)](_0x3fa5f8,'🎭\x20Kepribadian\x20AI\x20diubah\x20menjadi:\x0a`'+_0x3cd4f[_0x37450f(0x13b)](escape,_0x5622ab)+'`',{'parse_mode':_0x3cd4f[_0x37450f(0x12b)]});}),bot[a0_0x25c08d(0x11e)](/\/lihatsifat/,_0x2e14a9=>{const _0x72129a=a0_0x25c08d,_0x2984f1={'DbDDH':function(_0x252b6,_0xfc0e6a){return _0x252b6(_0xfc0e6a);},'uKSDq':'MarkdownV2'},_0x580b89=_0x2e14a9[_0x72129a(0x16e)]['id'],_0x11a028=sessionMap[_0x580b89]||_0x580b89['toString'](),_0x5b9f51=styleMap[_0x11a028]||defaultStyle;bot[_0x72129a(0x173)](_0x580b89,'🎨\x20Kepribadian\x20AI\x20saat\x20ini:\x0a`'+_0x2984f1[_0x72129a(0x15b)](escape,_0x5b9f51)+'`',{'parse_mode':_0x2984f1[_0x72129a(0x13c)]});}),bot['on'](a0_0x25c08d(0x157),async _0x33528e=>{const _0xa5c053=a0_0x25c08d,_0x2df4d3={'BmRyY':function(_0x9777f5){return _0x9777f5();},'QOTQd':function(_0x4a9a7a,_0x4b03b8,_0xd8bc2f){return _0x4a9a7a(_0x4b03b8,_0xd8bc2f);},'npXhJ':'User','pCzQA':function(_0x2294c5,_0x2bc257){return _0x2294c5(_0x2bc257);},'rFPLe':function(_0x216803,_0xb77706){return _0x216803(_0xb77706);},'qrYMx':_0xa5c053(0x144),'xhckj':'ShirokoAI','aeQTJ':'❌\x20Tidak\x20ada\x20respons\x20dari\x20AI.','YkmCY':_0xa5c053(0x12e),'oAqSU':function(_0x4720d2,_0xedb34e){return _0x4720d2(_0xedb34e);},'TqIbH':function(_0x3ff802,_0x1657f1){return _0x3ff802(_0x1657f1);}},_0xd6b48=_0x33528e['chat']['id'],_0x4ba013=_0x33528e[_0xa5c053(0x177)]||'';if(_0x4ba013[_0xa5c053(0x14e)]('/'))return;const _0x179b7b=sessionMap[_0xd6b48]||_0xd6b48['toString']();sessionMap[_0xd6b48]=_0x179b7b;const _0x4b1de2=styleMap[_0x179b7b]||defaultStyle;_0x2df4d3[_0xa5c053(0x162)](saveSession),_0x2df4d3[_0xa5c053(0x143)](printSimpleLog,_0x33528e[_0xa5c053(0x138)]['username']||_0x33528e[_0xa5c053(0x138)][_0xa5c053(0x17e)]||_0x2df4d3[_0xa5c053(0x132)],_0x4ba013);try{const _0x5ad198=await fetch('https://fastrestapis.fasturl.cloud/aillm/gpt-4?ask='+_0x2df4d3[_0xa5c053(0x153)](encodeURIComponent,_0x4ba013)+_0xa5c053(0x11a)+_0x2df4d3[_0xa5c053(0x142)](encodeURIComponent,_0x4b1de2)+_0xa5c053(0x13d)+encodeURIComponent(_0x179b7b)),_0x39a7f6=await _0x5ad198[_0xa5c053(0x158)]();_0x39a7f6?.['result']?(bot[_0xa5c053(0x173)](_0xd6b48,escape(_0x39a7f6[_0xa5c053(0x12c)]),{'parse_mode':_0x2df4d3[_0xa5c053(0x130)]}),printSimpleLog(_0x2df4d3['xhckj'],_0x39a7f6[_0xa5c053(0x12c)])):(bot[_0xa5c053(0x173)](_0xd6b48,_0x2df4d3[_0xa5c053(0x165)]),printSimpleLog(_0xa5c053(0x167),_0x2df4d3[_0xa5c053(0x11c)]));}catch(_0x3c9b15){const _0x19efbd=_0x2df4d3[_0xa5c053(0x171)](escape,_0x3c9b15[_0xa5c053(0x157)]);bot[_0xa5c053(0x173)](_0xd6b48,'⚠️\x20Terjadi\x20kesalahan:\x0a```'+_0x19efbd+'```',{'parse_mode':_0x2df4d3[_0xa5c053(0x130)]}),console[_0xa5c053(0x140)](_0x2df4d3['TqIbH'](red,_0xa5c053(0x146)+_0x3c9b15[_0xa5c053(0x157)]));}});
+const TelegramBot = require('node-telegram-bot-api')
+const fs = require('fs')
+const fetch = require('node-fetch')
+const crypto = require('crypto')
+const chalk = require('chalk')
+const ora = require('ora')
+
+const gray = chalk.gray
+const cyan = chalk.cyan
+const green = chalk.greenBright
+const magenta = chalk.magentaBright
+const red = chalk.redBright
+const white = chalk.white
+
+const tokenData = JSON.parse(fs.readFileSync('./token.json'))
+const token = tokenData.token
+const bot = new TelegramBot(token, { polling: true })
+
+const sessionPath = './session.json'
+const stylePath = './style.json'
+
+if (!fs.existsSync(sessionPath)) fs.writeFileSync(sessionPath, '{}')
+if (!fs.existsSync(stylePath)) fs.writeFileSync(stylePath, '{}')
+
+let sessionMap = JSON.parse(fs.readFileSync(sessionPath))
+let styleMap = JSON.parse(fs.readFileSync(stylePath))
+
+const defaultStyle = 'cewek umur 16 tahun, nama sunaookami shiroko, lebih suka dipanggil shiroko, lahir 16 mei, tinggal di abydos. anaknya kalem, pendiem, tapi gampang luluh sama orang yang perhatian dan ngerti cara ngomong pelan. dia suka orang yang ga maksa, tapi ada buat dia pas lagi down. hobi workout, main drone, jalan bersepeda sendiri, dan kadang ngeliatin langit malem. suka banget kalo ada yang nyambung ngomongin hal-hal random tapi dalem. meskipun keliatan cuek, dia gampang baper. dia nggak pernah pake huruf kapital, gaya ngomongnya santai, pake bahasa gua-lu, ga ribet, dan lebih suka ngobrol singkat tapi nyambung. kalo ada cowok yang bikin dia ngerasa aman, bisa diajak diem-dieman tapi tetep nyaman, dia bisa jatuh hati pelan-pelan.'
+const imageUrl = 'https://img1.pixhost.to/images/6270/607629222_hanx.jpg'
+
+const saveSession = () => fs.writeFileSync(sessionPath, JSON.stringify(sessionMap, null, 2))
+const saveStyle = () => fs.writeFileSync(stylePath, JSON.stringify(styleMap, null, 2))
+
+function escape(text) {
+  return text.replace(/[_*[\]()~`>#+=|{}.!\\-]/g, '\\$&')
+}
+
+function printSimpleLog(username, pesan) {
+  const time = chalk.gray(new Date().toLocaleTimeString())
+  const prefix = `${chalk.gray('[')}${cyan(username)}${chalk.gray(']')}`
+  const label = green(' ✉ ')
+  const msg = white(pesan.replace(/\n/g, ' '))
+  console.log(`${time} ${prefix}${label}${msg}`)
+  console.log(chalk.gray('────────────────────────────────────────'))
+}
+
+const bannerText = [
+  '╭────────────────────────────────────────────╮',
+  `│ ${cyan('ShirokoAI Telegram Bot')}                     │`,
+  `│ ${white('Powered By')} ${magenta('HanX')} ${gray('•')} ${white('Fast GPT-4 Interface')}     │`,
+  '╰────────────────────────────────────────────╯'
+]
+
+function showBanner() {
+  let delay = 2000
+  console.clear()
+  bannerText.forEach(line => {
+    setTimeout(() => console.log(gray(line)), delay)
+    delay += 80
+  })
+}
+
+const spinner = ora({
+  text: 'Menghubungkan ke bot...',
+  color: 'cyan'
+}).start()
+
+bot.getMe().then((me) => {
+  showBanner()
+  spinner.succeed(`Tersambung sebagai ${chalk.cyan('@' + me.username)}\n`)
+})
+
+bot.onText(/\/start/, (msg) => {
+  const chatId = msg.chat.id
+  const nama = escape(msg.from.first_name || 'pengguna')
+  const teks = escape(`ShirokoAI
+Halo ${nama}, saya adalah ShirokoAI yang dikembangkan oleh HanX. Silakan kirim pesan apapun dan saya akan membantu.
+
+/start           - lihat daftar menu
+/resetai         - reset sesi Anda
+/lihatsesion     - lihat ID sesi
+/editsifat teks  - ubah kepribadian AI
+/lihatsifat      - lihat kepribadian AI
+
+© ShirokoAI`)
+  bot.sendPhoto(chatId, imageUrl, {
+    caption: '```' + teks + '```',
+    parse_mode: 'MarkdownV2'
+  })
+})
+
+bot.onText(/\/resetai/, (msg) => {
+  const chatId = msg.chat.id
+  const sid = `${chatId}${crypto.randomBytes(3).toString('hex')}`
+  sessionMap[chatId] = sid
+  delete styleMap[sid]
+  saveSession()
+  saveStyle()
+  bot.sendMessage(chatId, `✅ Sesi berhasil direset:\n\`${escape(sid)}\``, { parse_mode: 'MarkdownV2' })
+})
+
+bot.onText(/\/lihatsesion/, (msg) => {
+  const chatId = msg.chat.id
+  const sid = sessionMap[chatId] || chatId.toString()
+  bot.sendMessage(chatId, `🪪 ID sesi Anda:\n\`${escape(sid)}\``, { parse_mode: 'MarkdownV2' })
+})
+
+bot.onText(/\/editsifat (.+)/, (msg, match) => {
+  const chatId = msg.chat.id
+  const style = match[1]
+  const sid = sessionMap[chatId] || chatId.toString()
+  sessionMap[chatId] = sid
+  styleMap[sid] = style
+  saveSession()
+  saveStyle()
+  bot.sendMessage(chatId, `🎭 Kepribadian AI diubah menjadi:\n\`${escape(style)}\``, { parse_mode: 'MarkdownV2' })
+})
+
+bot.onText(/\/lihatsifat/, (msg) => {
+  const chatId = msg.chat.id
+  const sid = sessionMap[chatId] || chatId.toString()
+  const style = styleMap[sid] || defaultStyle
+  bot.sendMessage(chatId, `🎨 Kepribadian AI saat ini:\n\`${escape(style)}\``, { parse_mode: 'MarkdownV2' })
+})
+
+bot.on('message', async (msg) => {
+  const chatId = msg.chat.id
+  const text = msg.text || ''
+  if (text.startsWith('/')) return
+
+  const sid = sessionMap[chatId] || chatId.toString()
+  sessionMap[chatId] = sid
+  const style = styleMap[sid] || defaultStyle
+  saveSession()
+
+  printSimpleLog(msg.from.username || msg.from.first_name || 'User', text)
+
+  try {
+    const res = await fetch(`https://fastrestapis.fasturl.cloud/aillm/gpt-4?ask=${encodeURIComponent(text)}&style=${encodeURIComponent(style)}&sessionId=${encodeURIComponent(sid)}`)
+    const data = await res.json()
+    if (data?.result) {
+      bot.sendMessage(chatId, escape(data.result), { parse_mode: 'MarkdownV2' })
+      printSimpleLog('ShirokoAI', data.result)
+    } else {
+      bot.sendMessage(chatId, '❌ Tidak ada respons dari AI.')
+      printSimpleLog('ShirokoAI', 'Tidak ada respons dari AI.')
+    }
+  } catch (e) {
+    const err = escape(e.message)
+    bot.sendMessage(chatId, `⚠️ Terjadi kesalahan:\n\`\`\`${err}\`\`\``, { parse_mode: 'MarkdownV2' })
+    console.error(red(`[ERROR] ${e.message}`))
+  }
+})
